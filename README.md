@@ -8,7 +8,7 @@
 <a href="https://github.com/arthurauffray?tab=repositories">
   <img src="https://badges.pufler.dev/repos/arthurauffray?style=for-the-badge&color=black&logo=github">
 </a>
-<a href="https://github.com/arthurauffray?tab=repositories">
+<a>
   <img src="https://badges.pufler.dev/commits/all/arthurauffray?style=for-the-badge&color=black&logo=github">
 </a>
 <!--
