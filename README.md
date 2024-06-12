@@ -9,7 +9,7 @@
   <img src="https://badges.pufler.dev/repos/arthurauffray?style=for-the-badge&color=black&logo=github">
 </a>
 <a href="#">
-  <img src="https://badges.pufler.dev/commits/all/arthurauffray?style=for-the-badge&color=black&logo=github">
+  <img src="https://badges.pufler.dev/commits/all/arthurauffray?style=for-the-badges&color=black&logo=github">
 </a>
 <!--
 **arthurauffray/arthurauffray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
