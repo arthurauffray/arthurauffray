@@ -1,4 +1,6 @@
-<a href="https://github.com/arthurauffray">
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurauffray)](https://github.com/arthurauffray/)
+
+<!--<a href="https://github.com/arthurauffray">
   <img src="https://badges.pufler.dev/visits/arthurauffray/arthurauffray?style=for-the-badge&color=blue&logo=github">
 </a>
 <a href="https://github.com/arthurauffray">
@@ -11,7 +13,7 @@
 <a href="#">
   <img src="https://badges.pufler.dev/commits/all/arthurauffray?style=for-the-badge&color=black&logo=github">
 </a>
-<!--
+
 **arthurauffray/arthurauffray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
