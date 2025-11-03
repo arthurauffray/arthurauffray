@@ -1,4 +1,10 @@
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurauffray)](https://github.com/arthurauffray/)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=summer">
+</picture>
+
+<!-- [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurauffray)](https://github.com/arthurauffray/)
 
 <!--<a href="https://github.com/arthurauffray">
   <img src="https://badges.pufler.dev/visits/arthurauffray/arthurauffray?style=for-the-badge&color=blue&logo=github">
