@@ -1,3 +1,4 @@
+Impact-Site-Verification: b1234864-1dd4-4029-8044-ff696f271c6c
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true">
