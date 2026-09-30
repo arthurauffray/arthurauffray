@@ -1,0 +1,30 @@
+name: Generate GitHub stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats card
+        uses: LuciNyan/pixel-profile/action@v1.3.0
+        with:
+          github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
+          outputs: |
+            dist/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true
+
+      - name: Publish stats card
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

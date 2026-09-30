@@ -1,7 +1,7 @@
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=arthurauffray&theme=lax&hide=rank&include_all_commits=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurauffray/arthurauffray/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurauffray/arthurauffray/output/github-stats.png">
+  <img alt="github stats" src="https://raw.githubusercontent.com/arthurauffray/arthurauffray/output/github-stats.png">
 </picture>
 
 <!-- [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurauffray)](https://github.com/arthurauffray/)
